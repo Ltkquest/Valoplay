@@ -1,3 +1,7 @@
 body{
-    background:slategray
+    background:slategray;
+}
+
+header {
+    border: 2px red;
 }
