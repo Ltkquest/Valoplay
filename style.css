@@ -3,5 +3,5 @@ body{
 }
 
 header {
-    border-width: solid 2px red;
+    border: solid 2px red;
 }
