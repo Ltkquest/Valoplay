@@ -9,7 +9,9 @@ a:link {
     text-decoration: none;
    }
 
-
+   a:visited {
+    text-decoration: none;
+   }
 
 
 /* From Uiverse.io by cssbuttons-io */ 
