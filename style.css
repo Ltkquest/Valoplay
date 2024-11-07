@@ -16,7 +16,7 @@ button {
     background-image: linear-gradient(144deg, #fa8149, #f36b42 50%, #eb0000);
     border: 0;
     border-radius: 8px;
-    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-shadow: rgba(179, 30, 30, 0.2) 0 15px 30px -5px;
     box-sizing: border-box;
     color: #ffffff;
     display: flex;
