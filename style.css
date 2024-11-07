@@ -5,7 +5,9 @@ body{
 header {
     border-bottom: solid 30px rgb(112, 1, 1);
 }
-
+a:link {
+    text-decoration: none;
+   }
 
 
 
