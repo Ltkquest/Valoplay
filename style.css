@@ -38,6 +38,9 @@ button {
     white-space: nowrap;
     cursor: pointer;
     transition: all 0.3s;
+
+    position: absolute;
+top: 40px; left: 40px;
   }
   
   button:active,
@@ -61,4 +64,6 @@ button {
   button:active {
     transform: scale(0.9);
   }
+
+  
   
