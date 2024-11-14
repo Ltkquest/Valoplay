@@ -40,7 +40,7 @@ button {
     transition: all 0.3s;
 
     position: absolute;
-top: 8; left: 25px;
+top: 8; left: 20px;
   }
   
   button:active,
